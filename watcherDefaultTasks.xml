@@ -1,0 +1,23 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--no-cache --update --style=compressed $FileName$:$ProjectFileDir$/dist/css/$FileNameWithoutExtension$.min.css --sourcemap=none" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="SCSS" />
+      <option name="output" value="$FileNameWithoutExtension$.min.css:$FileNameWithoutExtension$.min.css.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Ruby200-x64/bin/scss.bat" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>

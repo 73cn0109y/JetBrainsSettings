@@ -1,0 +1,114 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings" phpInterpreterId="da3ce122-b03f-48bb-a992-98738224641b">
+        <pharPath>C:\ProgramData\ComposerSetup\bin\composer.phar</pharPath>
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+        <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="PhpInvalidMagicMethodModifiersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="texpe" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript function metricsJavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="last_opened_file_path" value="C:/php" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="javascript.nodejs.core.library.configured.version" value="7.10.0" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
