@@ -1,6 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Vcs Important Messages" displayType="NONE" />
-    <notification groupId="Vcs Notifications" displayType="STICKY_BALLOON" />
   </component>
 </application>
